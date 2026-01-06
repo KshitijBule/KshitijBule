@@ -1,10 +1,112 @@
 <h1 align="center">Hi 👋, I'm Kshitij Bule</h1>
-<h3 align="center">A passionate frontend develo🎓 **B.Tech CSE Student (2nd Year)** at Ramdeobaba University, Nagpur 💻 **Programming Enthusiast | Competitive Coder | Tech Event Organizer** 🚀 Passionate about building projects, solving problems, and promoting coding cultureper from India</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kshitij-bule-bb50802ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kshitij%20Bule-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:kshitijbule731@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kshitijbule731%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+💻 **Java Full Stack Developer** with hands-on experience in building **scalable web applications** using **Spring Boot**, **React**, and **MySQL**.  
+🔐 Experienced in **RESTful APIs**, **authentication**, and **real-time systems** using WebSocket.  
+📈 Passionate about **clean code**, **performance optimization**, and **great user experience**.  
+🧠 Strong foundation in **Data Structures & Problem Solving**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Projects
+
+### 🔹 Real-Time Chat Application
+🛠 **Spring Boot | React (Vite) | WebSocket**
+
+- Real-time chat rooms with instant messaging
+- Secure authentication system
+- WebSocket-based live communication
+- Low-latency, responsive UI
+- Message persistence on backend
+
+---
+
+### 🔹 Email Writer Assistant
+🛠 **Spring Boot | React (Vite) | Chrome Extension**
+
+- AI-powered Gmail email reply generator
+- Chrome extension with backend REST integration
+- Admin dashboard to monitor usage
+- Gmail Web UI integration via `content_scripts`
+
+---
+
+## 🏆 Achievements
+
+🏅 Solved **150+ problems on LeetCode**  
+🥈 **Runner-Up** at YCCE Competition  
+⏱ Completed **24-Hour Hackathon (CodeRush)**  
+☁️ Certified in **Microsoft Azure Cloud Services (Coursera)**  
+🏐 Member of **RCOEM Volleyball Team**
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech – Computer Science Engineering**  
+📍 Ramdeobaba College of Engineering and Management, Nagpur  
+📊 CGPA: **9.22** (2023 – Present)
+
+---
+
+## 📫 Contact Me
+
+📞 **Phone:** 8007232561  
+📧 **Email:** kshitijbule731@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/kshitij-bule-bb50802ab/
+
+---
+
+⭐ _If you like my work, consider starring my repositories!_
