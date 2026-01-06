@@ -60,29 +60,6 @@
 
 ---
 
-## 💼 Projects
-
-### 🔹 Real-Time Chat Application
-🛠 **Spring Boot | React (Vite) | WebSocket**
-
-- Real-time chat rooms with instant messaging
-- Secure authentication system
-- WebSocket-based live communication
-- Low-latency, responsive UI
-- Message persistence on backend
-
----
-
-### 🔹 Email Writer Assistant
-🛠 **Spring Boot | React (Vite) | Chrome Extension**
-
-- AI-powered Gmail email reply generator
-- Chrome extension with backend REST integration
-- Admin dashboard to monitor usage
-- Gmail Web UI integration via `content_scripts`
-
----
-
 ## 🏆 Achievements
 
 🏅 Solved **150+ problems on LeetCode**  
